@@ -1,2 +1,2 @@
 # habit-checker
-A habit tracking app inspired by Atomic Habits by James Clear
+A habit tracking app inspired by James Clear's Atomic Habits.
